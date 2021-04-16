@@ -1,4 +1,4 @@
-### Hi, I'm Choi Wonyeong - aka [wildDoubt](website)
+### Hi, I'm Choi Wonyeong - aka [wildDoubt][website]
 <!--
 **wildDoubt/wildDoubt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 
 
 ---
-[website]: https://wilddoubt.github.io
+[website]: https://wilddoubt.github.io/
 [linkedin]: https://www.linkedin.com/in/wonyeong-choi-3a4543124/
