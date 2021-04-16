@@ -1,5 +1,4 @@
-### Hi there 👋
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FwildDoubt&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+### Hi, I'm Choi Wonyeong - aka [wildDoubt](website)
 <!--
 **wildDoubt/wildDoubt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wildDoubt&show_icons=true&theme=monokai)
+<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=wildDoubt&show_icons=true&theme=monokai)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildDoubt&theme=monokai)
+-->
+# I'm a Student!
+- 🌱 I’m currently learning everything.
+
+
+# Connect with me:
+[<img align="left" alt="https://wilddoubt.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="wildDoubt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+---
+[website]: https://wilddoubt.github.io
+[linkedin]: https://www.linkedin.com/in/wonyeong-choi-3a4543124/
