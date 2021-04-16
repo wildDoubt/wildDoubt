@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 # I'm a Student!
 - 🌱 I’m currently learning everything.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wildDoubt&show_icons=true&theme=monokai)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildDoubt&theme=monokai)
+
 
 # Connect with me:
 [<img align="left" alt="https://wilddoubt.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
