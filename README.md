@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wildDoubt&show_icons=true&theme=monokai)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vng598)](https://solved.ac/vng598)
+
 ![codeforces](https://cp-logo.vercel.app/codeforces/wildDoubt)
 
 # Connect with me:
