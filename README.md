@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wildDoubt&show_icons=true&theme=monokai)
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildDoubt&theme=monokai)
-
+![codeforces](https://cp-logo.vercel.app/codeforces/wildDoubt)
 
 # Connect with me:
 [<img align="left" alt="https://wilddoubt.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
