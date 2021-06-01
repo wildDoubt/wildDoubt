@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - [Golang][go]
 - [Python][python]
 
+# I'm currently learning
+- Problem solving
+- Vue
+
 # Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wildDoubt&show_icons=true&theme=monokai)
 
