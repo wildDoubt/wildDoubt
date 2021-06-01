@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vng598)](https://solved.ac/vng598)
 
-![codeforces](https://cp-logo.vercel.app/codeforces/wildDoubt)
+[![codeforces](https://cp-logo.vercel.app/codeforces/wildDoubt)](https://codeforces.com/profile/wildDoubt)
 
 # Connect with me:
   [<img align="left" alt="https://wilddoubt.github.io" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -43,3 +43,4 @@ Here are some ideas to get you started:
 [website]: https://wilddoubt.github.io/
 [linkedin]: https://www.linkedin.com/in/wonyeong-choi-3a4543124/
 [mail]: mailto:coma01155@gmail.com
+[codeforce_handle]: https://codeforces.com/profile/wildDoubt
