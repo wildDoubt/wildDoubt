@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 -->
 # I'm a Student!
 - 🌱 I’m currently learning everything.
+
 # I want to learn
 - [Golang][go]
 - [Python][python]
 
 # I'm currently learning
 - Problem solving
-- Vue
+- ES6+
+- react
 
 # Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wildDoubt&show_icons=true&theme=monokai)
