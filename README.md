@@ -28,15 +28,15 @@ Here are some ideas to get you started:
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=vng598)](https://solved.ac/vng598)
 
 <!-- [![codeforces](https://cp-logo.vercel.app/codeforces/wildDoubt)](https://codeforces.com/profile/wildDoubt) -->
-
-# Connect with me:
-  [<img align="left" alt="https://wilddoubt.github.io" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-  [<img align="left" alt="wildDoubt | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-  [<img align="left" alt="coma01155@gmail.com" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>][mail]
+<div align=center>
+  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonyeong-choi-3a4543124/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wilddoubt.github.io/)](https://wilddoubt.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coma01155@gmail.com)](mailto:coma01155@gmail.com)
+  
+</div>
 
 [go]: https://golang.org/
 [python]: https://www.python.org/
 [website]: https://wilddoubt.github.io/
-[linkedin]: https://www.linkedin.com/in/wonyeong-choi-3a4543124/
-[mail]: mailto:coma01155@gmail.com
 [codeforce_handle]: https://codeforces.com/profile/wildDoubt
