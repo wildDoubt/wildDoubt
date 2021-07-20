@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <!-- [![codeforces](https://cp-logo.vercel.app/codeforces/wildDoubt)](https://codeforces.com/profile/wildDoubt) -->
 <div align=center>
   
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonyeong-choi-3a4543124/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonyeong-choi-3a4543124/)](https://www.linkedin.com/in/wonyeong-choi-3a4543124/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wilddoubt.github.io/)](https://wilddoubt.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coma01155@gmail.com)](mailto:coma01155@gmail.com)
   
