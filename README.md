@@ -41,9 +41,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 [go]: https://golang.org/
 [python]: https://www.python.org/
 [website]: https://wilddoubt.github.io/
