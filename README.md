@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 - Problem solving
 - ES6+
 - react
+- Java
+- Spring
 
 <div align=center>
   
@@ -41,7 +43,4 @@ Here are some ideas to get you started:
 </div>
 
 
-[go]: https://golang.org/
-[python]: https://www.python.org/
 [website]: https://wilddoubt.github.io/
-[codeforce_handle]: https://codeforces.com/profile/wildDoubt
