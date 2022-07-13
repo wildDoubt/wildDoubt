@@ -17,14 +17,15 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wildDoubt&theme=monokai)
 -->
 # I'm a Student!
-- 🌱 I’m currently learning everything.
 
-# I'm currently learning
+# I'm interested in
 - Problem solving
 - ES6+
-- react
 - Java
 - Spring
+
+# I'm currently learning
+- Amazon Web Services
 
 <div align=center>
   
@@ -37,7 +38,6 @@ Here are some ideas to get you started:
 <div align=center>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wonyeong-choi-3a4543124/)](https://www.linkedin.com/in/wonyeong-choi-3a4543124/)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://wilddoubt.github.io/)](https://wilddoubt.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:coma01155@gmail.com)](mailto:coma01155@gmail.com)
   
 </div>
