@@ -1,7 +1,3 @@
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=rect&text=Wonyeong Choi&fontAlign=30&fontSize=30&desc=Welcome%20My%20Github&descAlign=60&descAlignY=50&theme=radical" />
-</div>
-
 ### Hi, I'm Choi Wonyeong - aka [wildDoubt][website]
 <!--
 **wildDoubt/wildDoubt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
