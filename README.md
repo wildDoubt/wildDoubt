@@ -20,6 +20,9 @@ Here are some ideas to get you started:
 
 # I'm a Student!
 
+- Undergraduate student at Computer Science and Engineering, Konkuk University
+- DevOps Engineer Intern of [NDS](https://nds.nongshim.co.kr)
+
 # I'm interested in
 - Problem solving
 - ES6+
