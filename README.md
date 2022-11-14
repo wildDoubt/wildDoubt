@@ -17,6 +17,7 @@
 - CloudFlare Workers
 - AWS Step Functions
 - 데이터 웨어하우스 구축
+- Terraform을 이용한 클라우드 리소스 관리
 
 <div align=center>
   
