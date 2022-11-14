@@ -14,19 +14,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I'm a Student!
+# 소개
 
 - Undergraduate student at Computer Science and Engineering, Konkuk University
 - DevOps Engineer Intern of [NDS](https://nds.nongshim.co.kr)
 
-# I'm interested in
-- Problem solving
-- ES6+
-- Java
-- Spring
+복잡한 과정을 간소화하거나 편리하게 해결할 수 있도록 도와주는 것을 좋아합니다.
 
-# I'm currently learning
-- Amazon Web Services
+# 관심 분야
+- Cloud Computing
+- Backend
+- Data Warehouse를 이용한 의사 결정
+
+# 현재 공부하고 있는 것들
+- Cloud Computing: AWS
+- Backend Server: FastAPI
+
+# 배우고 싶은 것들
+- CloudFlare Workers
+- AWS Step Functions
+- 데이터 웨어하우스 구축
 
 <div align=center>
   
