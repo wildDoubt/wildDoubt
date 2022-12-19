@@ -1,6 +1,6 @@
 # 소개
 - Undergraduate student at Computer Science and Engineering, Konkuk University
-- DevOps Engineer Intern of [NDS](https://nds.nongshim.co.kr)
+- Solutions Architect of [NDS](https://nds.nongshim.co.kr)
 
 복잡한 과정을 간소화하거나 편리하게 해결할 수 있도록 도와주는 것을 좋아합니다.
 
