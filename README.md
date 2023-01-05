@@ -6,18 +6,25 @@
 
 # 관심 분야
 - Cloud Computing
-- Backend
+- Web development
+- MSA
 - Data Warehouse를 이용한 의사 결정
+
+# 사용 가능한 기술 스택
+- Web
+  - Frontend: React
+  - Backend: Spring Boot, FastAPI
+- CI/CD
+  - AWS CodeBuild, CodeDeploy, CircleCI
 
 # 현재 공부하고 있는 것들
 - Cloud Computing: AWS
-- Backend Server: FastAPI
+- MSA 애플리케이션 개발
 
 # 배우고 싶은 것들
-- CloudFlare Workers
 - AWS Step Functions
 - 데이터 웨어하우스 구축
-- Terraform을 이용한 클라우드 리소스 관리
+- AWS CDK 이용한 클라우드 리소스 관리
 
 <div align=center>
   
